@@ -55,5 +55,4 @@ embedded machine learning for wearable tremor detection
 ---
 
 ### elsewhere
-portfolio → arushna-balaganesh.netlify.app  
 linkedin → linkedin.com/in/arushna-balaganesh
