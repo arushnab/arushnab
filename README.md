@@ -1,58 +1,55 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&pause=1100&color=8DA2FB&center=true&vCenter=true&width=780&lines=Computer+Engineering+%40+UofT;Software+Engineering+and+Cloud+Infrastructure;Backend+Systems+and+Full-Stack+Development;Applied+Machine+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1100&color=8DA2FB&center=true&vCenter=true&width=780&lines=computer+engineering+%40+uoft;machine+learning+systems;full-stack+and+cloud;built+end+to+end" />
 </p>
 
 <br/>
 
 # hi, i'm arushna
 
-computer engineering @ university of toronto  
+computer engineering @ university of toronto · ai minor
 
-i build reliable software across backend systems, cloud infrastructure, and applied machine learning.  
-i care about clean architecture, performance, and shipping real systems end to end.
+i'm drawn to new, hard problems, and i care about whether the end result actually makes someone's life easier.
 
-currently working across:
+**currently**
 
-🧠 applied machine learning and intelligent systems  
-💻 software and backend systems  
-☁️ cloud native and serverless infrastructure  
-⚙️ performance focused c++ systems    
+💼 software developer, pey co-op · full-stack data apps on azure  
+🧠 software director @ neurotechuoft · leading a 10-person software team
 
 ---
 
 ### stack
 
 **languages**  
-python · c++ · c · java · javascript · sql  
+python · typescript · c++ · c · java · javascript · sql
 
 **ml and ai**  
-pytorch · transformers · scikit-learn · langchain  
-fine tuning · rag · embeddings · tf idf  
+pytorch · transformers · scikit-learn · langchain · rag · embeddings · fine tuning
 
-**cloud and backend**  
-aws lambda · dynamodb · api gateway · cloudwatch · cdk  
-fastapi · docker · linux · rest apis · ci cd  
+**web and backend**  
+next.js · react · fastapi · rest apis · docker · linux
+
+**cloud**  
+azure · aws · ci cd
 
 **tools**  
-git · jupyter · valgrind  
+git · jupyter · matlab · valgrind
 
 ---
 
 ### selected work
 
-genrify  
-lyrics based genre classification using transformers  
+**medlit**  
+retrieval-augmented qa over pubmed central. minilm embeddings, pinecone, flan-t5.
 
-silverscore  
-cloud native scoring and recommendation backend  
+**genrify**  
+genre classification from lyrics alone. fine-tuned distilbert across 10 genres.
 
-saferoute  
-high performance routing engine in c++  
+**silverscore**  
+full-stack serverless app. react, aws lambda, dynamodb, api gateway, docker.
 
-neurotech uoft  
-embedded machine learning for wearable tremor detection  
+**saferoute**  
+routing engine in c++. a\*, dijkstra, and simulated annealing for multi-stop optimization.
 
 ---
 
-### elsewhere
-linkedin → linkedin.com/in/arushna-balaganesh
+linkedin → [linkedin.com/in/arushna-balaganesh](https://linkedin.com/in/arushna-balaganesh)
